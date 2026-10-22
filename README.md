@@ -12,7 +12,7 @@ Printify's publish endpoint returns HTTP 200 immediately. The actual sync to you
 
 The obvious move is wrong. The first publish is still queued. Your retry stacks a second publish behind it, both eventually fire, and now Shopify has two of the same product. On Etsy that same impatience costs $0.20 per duplicate listing, and Etsy's algorithm penalizes duplicate titles besides.
 
-I learned each of these the expensive way, in one night, on a 12-product batch.
+I learned each of these the expensive way, in one night, on a 6-product batch that became 12 products on Shopify.
 
 ## State machine
 
