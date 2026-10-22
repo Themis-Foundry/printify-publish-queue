@@ -1,5 +1,5 @@
 [![CI](https://github.com/Themis-Foundry/printify-publish-queue/actions/workflows/ci.yml/badge.svg)](https://github.com/Themis-Foundry/printify-publish-queue/actions/workflows/ci.yml)
-[![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
+[![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 # printify-publish-queue
@@ -75,7 +75,7 @@ Nine tests, no network, no real time (the clock is injected). The assertions tha
 
 ## Who made this
 
-Kyle Miller. I run an e-commerce operation with hundreds of live products published through Printify by pipelines, and this module is the publish layer extracted from it. More: [themisfoundry.com](https://themisfoundry.com)
+Kyle Miller. I run an e-commerce operation with more than a thousand live products published through Printify by pipelines, and this module is the publish layer extracted from it. I specify, test and verify; the code is written by AI coding agents under my direction. More: [linkedin.com/in/kylemillerfl](https://www.linkedin.com/in/kylemillerfl)
 
 ## License
 
