@@ -75,7 +75,9 @@ Nine tests, no network, no real time (the clock is injected). The assertions tha
 
 ## Who made this
 
-Kyle Miller. I run an e-commerce operation with more than a thousand live products published through Printify by pipelines, and this module is the publish layer extracted from it. I specify, test and verify; the code is written by AI coding agents under my direction. More: [linkedin.com/in/kylemillerfl](https://www.linkedin.com/in/kylemillerfl)
+Kyle Miller. I design systems where AI agents do the building and a separate check decides whether the work counts. I write the rules and decide what the tests must prove; AI coding agents write the code. I run a print-on-demand store that publishes to Shopify and Etsy through Printify, and this module is its publish layer.
+
+[themisfoundry.com](https://themisfoundry.com) · [LinkedIn](https://www.linkedin.com/in/kylemillerfl) · [more tools](https://github.com/kylemillerbuilds)
 
 ## License
 

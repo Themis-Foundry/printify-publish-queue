@@ -8,6 +8,6 @@ This module encodes hard-won lessons from real Printify API failures. Contributi
 
 ## Pull requests
 
-1. Run `python -m unittest test_publish_queue -v` — all green.
+1. Run `python -m unittest test_publish_queue -v`. All green.
 2. If you add a new failure mode, document it in the README table.
 3. If you change the state machine, update `diagram.svg`.
